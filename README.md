@@ -1,3 +1,5 @@
+<a href="buymeacoffee.com/tue_broadcast" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 # Auto Upload IG via Meta API
 
 This Python script automates the process of uploading videos from a specified directory to Instagram Reels using the Meta API. It's designed for content creators participating in Meta's Breakthrough Bonus program or anyone looking to streamline their content upload process.
@@ -95,13 +97,13 @@ To automate the execution of this script on Windows 11 with Conda Python, follow
      Replace `your_env_name` with the name of your Conda environment where your script dependencies are installed.
    - In the "Start in (optional)" field, enter the path to your project root directory to ensure the script can find the `.env` file.
   
-  OR
+   OR
 
-  - Click "New..." to add an action.
-  - Select "Start a program" as the action type.
-  - In the "Program/script" field, browse to and select `python.exe` from your Python installation directory (typically `C:\PythonXX\python.exe`, where XX is your Python version).
-  - In the "Add arguments (optional)" field, type `auto_upload_ig.py`.
-  - In the "Start in (optional)" field, enter the path to your project root directory to ensure the script can find the `.env` file.
+   - Click "New..." to add an action.
+   - Select "Start a program" as the action type.
+   - In the "Program/script" field, browse to and select `python.exe` from your Python installation directory (typically `C:\PythonXX\python.exe`, where XX is your Python version).
+   - In the "Add arguments (optional)" field, type `auto_upload_ig.py`.
+   - In the "Start in (optional)" field, enter the path to your project root directory to ensure the script can find the `.env` file.
 
 6. **Conditions & Settings**:
    - Adjust conditions like "Start the task only if the computer is idle for" if necessary.
@@ -113,3 +115,5 @@ To automate the execution of this script on Windows 11 with Conda Python, follow
 Now your task is set to run automatically according to the schedule you've set. Remember, you can always go back and edit this task if you need to change the schedule or other settings.
 ## 
 This README provides all the necessary information for a new user to get started with your project. Remember to create a LICENSE.md file with the MIT License text if you decide to use it. Also, ensure you keep your .env file out of version control by adding env/.env to your .gitignore file.
+
+<a href="buymeacoffee.com/tue_broadcast" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
