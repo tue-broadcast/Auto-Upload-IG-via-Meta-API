@@ -118,4 +118,6 @@ Now your task is set to run automatically according to the schedule you've set. 
 ## 
 This README provides all the necessary information for a new user to get started with your project. Remember to create a LICENSE.md file with the MIT License text if you decide to use it. Also, ensure you keep your .env file out of version control by adding env/.env to your .gitignore file.
 
-<a href="buymeacoffee.com/tue_broadcast" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://buymeacoffee.com/tue_broadcast">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px;">
+</a>
